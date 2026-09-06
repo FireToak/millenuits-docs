@@ -67,7 +67,7 @@ L'objectif est de fournir un environnement isolé, moderne et sécurisé pour le
 
 ## **3. 🛠️ Comment utiliser la documentation ?**
 
-Ce site de documentation est généré automatiquement à partir de fichiers Markdown hébergés depuis le dépôt : [millenuits](https://github.com/AP-BTS-SIO-Louis/millenuits)
+Ce site de documentation est généré automatiquement à partir de fichiers Markdown hébergés depuis le dépôt : [millenuits](https://github.com/firetoak/millenuits-docs)
 
 ### **3.1 Structure de la documentation**
 
