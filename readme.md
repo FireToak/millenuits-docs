@@ -1,8 +1,8 @@
 # BTS SIO - Documentation - Millenuits
 
-![Bannière Millenuits](https://ap-bts-sio-louis.github.io/millenuits/assets/banniere_millenuits.png)
+![Bannière Millenuits](https://millenuits.bts.loutik.fr/assets/banniere_millenuits.png)
 
-🪢 *Accéder à la documentation :* [Documentation - Millenuits](https://ap-bts-sio-louis.github.io/millenuits/)
+🪢 *Accéder à la documentation :* [Documentation - Millenuits](https://millenuits.bts.loutik.fr)
 
 ## A. Contexte de la situation professionnelle
 
