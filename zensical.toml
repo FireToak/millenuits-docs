@@ -1,5 +1,5 @@
 [project]
-site_url = "millenuits.bts.loutik.fr"
+site_url = "https://millenuits.bts.loutik.fr"
 site_name = "Documentation infrastructure - Millenuits"
 site_description = "Documentation du contexte Millenuits du BTS SIO Paul-Louis Courier."
 site_author = "Louis MEDO & Louis Biseray"
